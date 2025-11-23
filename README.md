@@ -9,3 +9,5 @@
 9. `npm install --save-dev --save-exact prettier` => создать .prettierrc
 10. `npm install --save-dev eslint-plugin-prettier eslint-config-prettier` => поправить eslint.config.mjs
 11. `npm install --save-dev husky lint-staged` => `npx husky init` => заменить содержимое файла pre-commit => добавить секцию в package.json
+12. `npm install --save-dev webpack webpack-cli webpack-dev-server html-webpack-plugin css-loader style-loader babel-loader` => создать webpack.config.js
+13.
