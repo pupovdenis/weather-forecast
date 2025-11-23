@@ -4,7 +4,7 @@
   "description": "1. git init, npm init -y",
   "main": "index.js",
   "scripts": {
-    "dev": "npx -y node-static src",
+    "dev": "npx -y node-static src -p 3000",
     "test": "jest",
     "lint:js": "eslint src",
     "lint:js:fix": "npx eslint src --fix",
