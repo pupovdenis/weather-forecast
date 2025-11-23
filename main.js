@@ -1,0 +1,1 @@
+console.log("Weather Forecast app is working!"),document.querySelector(".app").innerHTML="\n  <h1>Weather Forecast App</h1>\n  <p>Application is running successfully!</p>\n";
